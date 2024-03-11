@@ -3,4 +3,6 @@
 */bin/configlet.exe
 */pnpm-lock.yaml
 */yarn.lock
+*/__pycache__
+*/.pytest_cache
 .npmrc

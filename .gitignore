@@ -1,8 +1,20 @@
-*/node_modules
-*/bin/configlet
-*/bin/configlet.exe
-*/pnpm-lock.yaml
-*/yarn.lock
-*/__pycache__
-*/.pytest_cache
-.npmrc
+# CSharp
+*bin/
+*obj/
+
+# JavaScript
+*node_modules/
+*bin/configlet/
+*bin/configlet.exe
+*pnpm-lock.yaml
+*yarn.lock
+*.npmrc
+
+# Python
+*__pycache__/
+*.pyc
+*.pytest_cache/
+
+# Visual Studio / Visual Studio Code
+*.vscode/
+*.vs/
